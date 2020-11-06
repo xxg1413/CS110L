@@ -3,6 +3,10 @@
 
 官方网址： [Stanford CS 110L](https://reberhardt.com/cs110l/spring-2020/)
 
+</br>
+
+我的笔记: [CS 110l](https://pxiaoer.blog/category/rust/cs110l/)
+
 
 ## 目录
 
