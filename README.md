@@ -8,7 +8,7 @@
 
 
 
-| 课程序号  |   课程内容          |   视频       |   Slides  |  笔记   |
-| ------   | ------------------ | ------------ | ---------- | -------------  |
-| 01  | Welcome to CS 110L       | [youtube](https://youtu.be/j7AQrtLevUE)  B站      |  [Slides](https://reberhardt.com/cs110l/spring-2020/slides/lecture-01.pdf) |    |
+|   课程序号        |   视频       |   Slides    |  笔记          |
+| -----------      | ------------ | ---------- | -------------   |
+| 01.Welcome to CS 110L   |  [Youtube](https://youtu.be/j7AQrtLevUE)  B站中字      |  [Slides](https://reberhardt.com/cs110l/spring-2020/slides/lecture-01.pdf) |    |
 
