@@ -12,8 +12,8 @@
 
 
 
-|   课程序号        |   视频链接          |  笔记          |
-| -----------      | ------------ | ---------- | -------------   |
+|   课程序号        |   视频链接    |  笔记          |
+| -----------      | ------------  | -------------   |
 | 01.Welcome to CS 110L   |  [Youtube](https://youtu.be/j7AQrtLevUE) [B站中字](https://www.bilibili.com/video/BV1Ra411A7kN/)    |      |
 | 02.Memory Safety  |  [Youtube](https://youtu.be/cUrggIAPJEs) [B站中字](https://www.bilibili.com/video/BV1Ra411A7kN/?p=2)      |      |
 
